@@ -1,5 +1,5 @@
 # Dad Tired and Loving It - Book Club Guide 📚
-**By Jerrad Lopes | 8-Week Study for Christian Fathers** 👨‍👩‍👧‍👦
+**By Jerrad Lopes | 8-Session Study for Christian Fathers** 👨‍👩‍👧‍👦
 
 ---
 
@@ -7,15 +7,15 @@
 
 **Purpose:** Help busy Christian fathers grow in faith and fatherhood through structured community discussion
 
-**Duration:** 8 weeks | **Time Commitment:** 15-20 minutes daily reading + 60-minute weekly meetings ⏰
+**Duration:** 8 sessions | **Time Commitment:** 15-20 minutes daily reading + 60-minute session meetings ⏰
 
 **Target Audience:** Busy fathers seeking spiritual growth and practical parenting wisdom 💪
 
 ---
 
-## Weekly Reading Schedule 📖
+## Session Reading Schedule 📖
 
-### Week 1: Part 1 - "The Kingdom of God Around You" (Chapters 1-2) 👑
+### Session 1: Part 1 - "The Kingdom of God Around You" (Chapters 1-2) 👑
 **Theme:** Recognizing God's kingdom in everyday fatherhood  
 **Daily Reading:** 15-20 pages 📄
 
@@ -25,11 +25,11 @@
 3. How has fatherhood changed your perspective on God as Father?
 4. Where do you struggle to see God's presence in the chaos of parenting?
 
-**Action Step:** Identify one "kingdom moment" with your kids this week. ✅
+**Action Step:** Identify one "kingdom moment" with your kids this session. ✅
 
 ---
 
-### Week 2: Part 1 (Continued) - "Kingdom Perspective" (Chapters 3-4) 🔭
+### Session 2: Part 1 (Continued) - "Kingdom Perspective" (Chapters 3-4) 🔭
 **Theme:** Eternal perspective in temporary struggles  
 **Daily Reading:** 15-20 pages 📄
 
@@ -39,11 +39,11 @@
 3. How do you balance earthly responsibilities with kingdom priorities?
 4. What kingdom values are you intentionally passing to your children?
 
-**Action Step:** Have one conversation with your child about God's kingdom this week. 💬
+**Action Step:** Have one conversation with your child about God's kingdom this session. 💬
 
 ---
 
-### Week 3: Part 2 - "The Kingdom of God Within You" (Chapters 5-6) ❤️
+### Session 3: Part 2 - "The Kingdom of God Within You" (Chapters 5-6) ❤️
 **Theme:** Internal spiritual growth as a father  
 **Daily Reading:** 15-20 pages 📄
 
@@ -57,7 +57,7 @@
 
 ---
 
-### Week 4: Part 2 (Continued) - "Heart Transformation" (Chapters 7-8) 🔄
+### Session 4: Part 2 (Continued) - "Heart Transformation" (Chapters 7-8) 🔄
 **Theme:** God's work in the father's heart  
 **Daily Reading:** 15-20 pages 📄
 
@@ -67,11 +67,11 @@
 3. How do you model grace and forgiveness in your home?
 4. What heart issues has fatherhood exposed that you need to address?
 
-**Action Step:** Practice confession and forgiveness with your family this week. 🤝
+**Action Step:** Practice confession and forgiveness with your family this session. 🤝
 
 ---
 
-### Week 5: Part 3 - "The Kingdom of God Through You" (Chapters 9-10) 🚀
+### Session 5: Part 3 - "The Kingdom of God Through You" (Chapters 9-10) 🚀
 **Theme:** Being God's instrument in your family  
 **Daily Reading:** 15-20 pages 📄
 
@@ -81,11 +81,11 @@
 3. How do you point your children to Jesus through your words and actions?
 4. What are practical ways to create gospel moments in everyday life?
 
-**Action Step:** Look for three opportunities to point your kids toward Jesus this week. ✨
+**Action Step:** Look for three opportunities to point your kids toward Jesus this session. ✨
 
 ---
 
-### Week 6: Part 3 (Continued) - "Kingdom Leadership" (Chapters 11-12) 👑
+### Session 6: Part 3 (Continued) - "Kingdom Leadership" (Chapters 11-12) 👑
 **Theme:** Leading like Jesus in the home  
 **Daily Reading:** 15-20 pages 📄
 
@@ -99,7 +99,7 @@
 
 ---
 
-### Week 7: Part 4 - "The Kingdom of God Before You" (Chapters 13-14) 🌅
+### Session 7: Part 4 - "The Kingdom of God Before You" (Chapters 13-14) 🌅
 **Theme:** Future hope and legacy building  
 **Daily Reading:** 15-20 pages 📄
 
@@ -113,7 +113,7 @@
 
 ---
 
-### Week 8: Part 4 (Continued) & Conclusion - "Hope for Tired Dads" (Chapters 15-16) 🌟
+### Session 8: Part 4 (Continued) & Conclusion - "Hope for Tired Dads" (Chapters 15-16) 🌟
 **Theme:** God's grace for imperfect fathers  
 **Daily Reading:** 15-20 pages 📄
 
@@ -127,14 +127,14 @@
 
 ---
 
-## Weekly Meeting Structure (60 Minutes) 📅
+## Session Meeting Structure (60 Minutes) 📅
 
 ### Opening Check-In (10 minutes) 👋
-- Share kingdom moments from your week
+- Share kingdom moments from between sessions
 - Brief updates on family life
 
 ### Main Discussion (35 minutes) 💬
-- Work through weekly discussion questions
+- Work through session discussion questions
 - Share insights from reading
 - Apply biblical principles to real situations
 
@@ -144,9 +144,9 @@
 - Thank God for growth opportunities
 
 ### Closing Encouragement (5 minutes) 💪
-- Share one "dad win" from the week
+- Share one "dad win" from between sessions
 - Commit to action steps
-- Schedule next meeting
+- Schedule next session
 
 ---
 
@@ -226,4 +226,4 @@
 
 ---
 
-*Document prepared: July 2025 | For personal and group study use*
+*Document prepared: July 2025 | For personal and group study use* 📋
